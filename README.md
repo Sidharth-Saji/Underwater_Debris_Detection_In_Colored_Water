@@ -1,1 +1,1 @@
-# Underwater_Debris_Detection_In_Colored_Water
+# Debris_Detection_In_Colored_Water
